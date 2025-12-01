@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Shimi",
+  "base_artist": "iri",
+  "createdAt": "2025-12-01T12:35:05.211324Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shimi",
+      "artist": "Maximum the Hormone",
+      "has_synced": true,
+      "path": "select/01_Shimi_Maximum_the_Hormone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shimi [シミ]",
+      "artist": "Maximum the Hormone",
+      "has_synced": true,
+      "path": "select/02_Shimi_[シミ]_Maximum_the_Hormone.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shimi",
+      "artist": "Ai Higuchi",
+      "has_synced": true,
+      "path": "select/03_Shimi_Ai_Higuchi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shimi",
+      "artist": "マキシマム ザ ホルモン",
+      "has_synced": true,
+      "path": "select/04_Shimi_マキシマム_ザ_ホルモン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shimi - シミ",
+      "artist": "MAXIMUM THE HORMONE",
+      "has_synced": true,
+      "path": "select/05_Shimi_-_シミ_MAXIMUM_THE_HORMONE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shimi Darake No Uta",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/06_Shimi_Darake_No_Uta_Lamp.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shimi (ft. ATARASHI GAKKO! [シミ feat.新しい学校のリーダーズ]",
+      "artist": "Maximum the Hormone",
+      "has_synced": true,
+      "path": "select/07_Shimi_(ft._ATARASHI_GAKKO!_[シミ_feat.新しい学校のリーダーズ]_Maximum_the_Hormone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shimi Darake No Uta",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/08_Shimi_Darake_No_Uta_Lamp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shimi",
+      "artist": "Asami Tono",
+      "has_synced": false,
+      "path": "select/pl_01_Shimi_Asami_Tono.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Shimizu Familia",
+      "artist": "Asami Tono",
+      "has_synced": false,
+      "path": "select/pl_02_Shimizu_Familia_Asami_Tono.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Shimisoldiers",
+      "artist": "Asami Tono",
+      "has_synced": false,
+      "path": "select/pl_03_Shimisoldiers_Asami_Tono.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Shimi",
+      "artist": "Asami Tono",
+      "has_synced": false,
+      "path": "select/pl_04_Shimi_Asami_Tono.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Shimizusawa",
+      "artist": "Asami Tono",
+      "has_synced": false,
+      "path": "select/pl_05_Shimizusawa_Asami_Tono.txt"
+    }
+  ]
+}
